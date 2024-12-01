@@ -13,8 +13,3 @@ This project uses an AVR microcontroller Atmeaga32 to control a 7-segment displa
 - AVR Standard Library (`avr/io.h` and `avr/delay.h`)
 - Custom `SSEG_interface.h` for 7-segment display control.
 - Custom `KEYPAD_interface.h` for keypad input handling.
-
-## Installation:
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/yourrepository.git

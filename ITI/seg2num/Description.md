@@ -1,7 +1,7 @@
 # AVR Dual 7-Segment Display Counter
 
 ## Description:
-This project uses an AVR microcontroller ATmega 32 to control two 7-segment displays. The program counts from 0 to 9 on the first display, and for each number, it displays a secondary counter (0 to 9) on the second display. The program alternates between the two displays, showing the numbers in sequence with a delay of 50 milliseconds.
+This project uses an AVR microcontroller ATmega32 to control two 7-segment displays. The program counts from 0 to 9 on the first display, and for each number, it displays a secondary counter (0 to 9) on the second display. The program alternates between the two displays, showing the numbers in sequence with a delay of 50 milliseconds.
 
 ## Features:
 - Controls two 7-segment displays.
